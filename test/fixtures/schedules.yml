@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start: 2018-10-27 01:26:30
+  end: 2018-10-27 01:26:30
+  enabled: 1
+  doctor: one
+  assignation: one
+
+two:
+  start: 2018-10-27 01:26:30
+  end: 2018-10-27 01:26:30
+  enabled: 1
+  doctor: two
+  assignation: two
